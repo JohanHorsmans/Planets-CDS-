@@ -1,2 +1,3 @@
 hello = "hello"
-asd
+
+"Hello I am using GIT NOW!"
